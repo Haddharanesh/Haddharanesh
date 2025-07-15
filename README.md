@@ -29,7 +29,7 @@
   -->
 </h3>
 
-<p align="center"><i>I'm not currently doing anything!</i></p>
+<p align="center"><i>I am currently doing Learning with egoness</i></p>
 
 ---
 
