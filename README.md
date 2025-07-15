@@ -10,7 +10,7 @@
 
 <h3 align="center">
   <a href="https://discord.com/users/843067007192530945" target="_blank">Haddharanesh</a>
-  <img src="https://img.shields.io/badge/HAD-00bfa5?style=for-the-badge&logo=web3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HAD-000000?style=for-the-badge&logo=web3&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Verified-28a745?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </h3>
