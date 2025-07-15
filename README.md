@@ -24,11 +24,10 @@
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Had-000000?style=for-the-badge&logo=web3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nitro-ff73fa?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Verified-28a745?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </h3>
 
-<p align="center"><i>I'm not currently doing anything!</i></p>
+<p align="center"><i>I'm currently doing code With My Egoness</i></p>
 
 ---
 
