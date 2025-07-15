@@ -9,16 +9,18 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haddharanesh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haddharanesh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 💬 My Discord Profile
 
- <a href="https://discord.com/users/843067007192530945">
-   <img src="https://lanyard.cnrad.dev/api/843067007192530945?hideSpotify=true" alt="Discord Presence" />
+<p align="center">
+  <a href="https://discord.com/users/843067007192530945">
+    <img src="https://lanyard.cnrad.dev/api/843067007192530945?hideSpotify=true" alt="Discord Presence" />
   </a>
+</p>
 
 <p align="center"><i>I'm currently doing code With My Egoness</i></p>
 
@@ -26,6 +28,6 @@
 
 ### 💡 About Me
 
-🔭 I’m currently working on **Discord Bots**  
-🌱 I’m learning **Python | Node.js | Lua**  
-💬 Ask me about **FiveM | Discord API | Webhooks**
+- 🔭 I’m currently working on **Discord Bots**  
+- 🌱 I’m learning **Python | Node.js | Lua**  
+- 💬 Ask me about **FiveM | Discord API | Webhooks**
