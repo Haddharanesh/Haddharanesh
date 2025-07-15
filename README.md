@@ -36,5 +36,5 @@
 ### 💡 About Me
 
 🔭 I’m currently working on **Discord Bots**  
-🌱 I’m learning **Python | Node.js | Lua**  
-💬 Ask me about **FiveM | Discord API | Webhooks**
+🌱 I’m learning **Python | Lua**  
+💬 Ask me about **FiveM | Cars Devs**
