@@ -17,6 +17,7 @@
 ### 💬 My Discord Profile
 
  <a href="https://discord.com/users/843067007192530945">
+   <img src="https://lanyard.cnrad.dev/api/843067007192530945?hideSpotify=true" alt="Discord Presence" />
   </a>
 
 <p align="center"><i>I'm currently doing code With My Egoness</i></p>
