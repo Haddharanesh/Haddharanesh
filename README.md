@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/843067007192530945" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/843067007192530945.png" alt="Haddharanesh Discord Profile"/>
+    <img src="https://discord.c99.nl/widget/theme-1/843067007192530945.png" alt="Haddharanesh Discord Profile"/>
   </a>
 </p>
 
