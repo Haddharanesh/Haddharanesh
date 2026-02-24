@@ -46,23 +46,14 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haddharanesh&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=Haddharanesh&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ### 🎧 Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=had%20dharanesh&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
-</p>
-
----
-
-### 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/Haddharanesh?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qh6tuuvezbarb6kzjx7tckqzmm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
 </p>
 
 ---
