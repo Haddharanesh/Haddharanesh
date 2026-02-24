@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Discord Bot Developer | FiveM Enthusiast | Learning Python & Lua</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haddharanesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Haddharanesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Haddharanesh?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Haddharanesh?label=Stars&style=for-the-badge" />
 </p>
@@ -46,8 +46,8 @@
 
 ### 💬 Connect With Me  
 <p align="center">
-  <a href="https://discord.com/users/843067007192530945" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/843067007192530945.png" />
+  <a href="https://discord.com/users/843067007192530945">
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
