@@ -51,13 +51,17 @@
 
 ---
 
+### 🎧 Now Playing on Spotify  
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=had%20dharanesh&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
+</p>
+
+---
+
 ### 📌 Featured Projects  
 <p align="center">
   <a href="https://github.com/Haddharanesh?tab=repositories">
     <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Haddharanesh?tab=stars">
-    <img src="https://img.shields.io/badge/My%20Starred%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
