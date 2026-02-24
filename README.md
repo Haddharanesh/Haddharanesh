@@ -35,7 +35,7 @@
 ### 💬 Connect With Me  
 <p align="center">
   <a href="https://discord.com/users/843067007192530945" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://discord.c99.nl/widget/theme-4/843067007192530945.png" />
   </a>
 </p>
 
