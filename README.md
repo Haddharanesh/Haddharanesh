@@ -24,16 +24,10 @@
 
 ---
 
-### 📊 Most Used Languages  
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddharanesh&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haddharanesh&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Haddharanesh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haddharanesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
