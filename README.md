@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Haddharanesh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haddharanesh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haddharanesh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haddharanesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 💬 Connect With Me  
 <p align="center">
   <a href="https://discord.com/users/843067007192530945" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/843067007192530945.png" />
+    <img src="https://lanyard.cnrad.dev/api/843067007192530945?theme=dark&bg=1e1e2e&borderRadius=12px" />
   </a>
 </p>
 
