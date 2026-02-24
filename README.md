@@ -1,41 +1,52 @@
-<h2 align="center">Hi 👋, I'm Haddharanesh</h2>
+<h1 align="center">Hey 👋, I'm Haddharanesh</h1>
+<h3 align="center">🚀 Discord Bot Developer | FiveM Enthusiast | Learning Python & Lua</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haddharanesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Haddharanesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Haddharanesh?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Haddharanesh?label=Stars&style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 Most Used Languages
+### 👨‍💻 About Me  
+✨ Passionate about building **Discord Bots**  
+🚓 Working with **FiveM (QB-Core | ESX)**  
+🌱 Currently learning **Python & Lua**  
+💬 Ask me about **Bots, FiveM scripts, car dev stuff**
 
+---
+
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,lua,js,git,github,linux" />
+</p>
+
+---
+
+### 📊 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddharanesh&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haddharanesh&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-### 💬 My Discord Profile
-
+### 💬 Connect With Me  
 <p align="center">
   <a href="https://discord.com/users/843067007192530945" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/843067007192530945.png" alt="Haddharanesh Discord Profile"/>
+    <img src="https://discord.c99.nl/widget/theme-4/843067007192530945.png" />
   </a>
 </p>
 
-<!-- Optional badges can go here -->
-<h3 align="center">
-  <!-- Example: 
-  <img src="https://img.shields.io/badge/Nitro-ff73fa?style=for-the-badge&logo=discord&logoColor=white" />
-  -->
-</h3>
-
-<p align="center"><i>I am currently doing Learning with egoness</i></p>
-
 ---
 
-### 💡 About Me
-
-🔭 I’m currently working on **Discord Bots**  
-🌱 I’m learning **Python | Lua**  
-💬 Ask me about **FiveM | QB CORE | ESX  | Cars Devs**
+<p align="center">
+  <i>“Still learning, still grinding, still improving.” 🔥</i>
+</p>
