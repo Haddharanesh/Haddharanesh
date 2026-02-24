@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haddharanesh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haddharanesh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Haddharanesh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haddharanesh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -40,20 +40,6 @@
 ### 🔥 Contribution Streak  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Haddharanesh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=Haddharanesh&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🎧 Now Playing on Spotify  
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qh6tuuvezbarb6kzjx7tckqzmm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
 </p>
 
 ---
