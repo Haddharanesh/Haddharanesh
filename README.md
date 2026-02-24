@@ -35,7 +35,7 @@
 ### 💬 Connect With Me  
 <p align="center">
   <a href="https://discord.com/users/843067007192530945" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/843067007192530945?theme=dark&bg=1e1e2e&borderRadius=12px" />
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
