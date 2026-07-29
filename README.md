@@ -35,7 +35,7 @@
 ### 💬 Connect With Me  
 <p align="center">
   <a href="https://discord.com/users/843067007192530945" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/843067007192530945.png" />
+    <img src="https://discord.c99.nl/widget/theme-2/843067007192530945.png" />
   </a>
 </p>
 
