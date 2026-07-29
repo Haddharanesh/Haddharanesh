@@ -1,139 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9FF&height=240&section=header&text=Haddharanesh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9FF&height=240&section=header&text=Haddharanesh&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer;FiveM+Developer;Full+Stack+Developer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer;FiveM+Developer;Full+Stack+Developer;Open+Source+Enthusiast"/>
 
-<p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Haddharanesh&label=Visitors&style=for-the-badge&color=00F5A0"/>
+<img src="https://komarev.com/ghpvc/?username=Haddharanesh&label=Profile+Views&style=for-the-badge&color=00F5A0"/>
 
 <img src="https://img.shields.io/github/followers/Haddharanesh?style=for-the-badge&color=00F5A0"/>
 
 <img src="https://img.shields.io/github/stars/Haddharanesh?style=for-the-badge&color=00F5A0"/>
 
-</p>
-
 </div>
 
 ---
 
-# 💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name        : Haddharanesh
 Role        : Full Stack Developer
-Speciality  : FiveM Development
+Focus       : FiveM Development
 Backend     : Node.js • Python • Lua
 Frontend    : React • Next.js • Tailwind CSS
 Database    : PostgreSQL • MySQL
 Tools       : Docker • Linux • Git • GitHub
+Learning    : Advanced Lua & Backend Systems
 ```
 
 ---
 
-# ⚒ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,lua,js,ts,nodejs,react,nextjs,tailwind,docker,postgres,mysql,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,lua,js,ts,nodejs,react,nextjs,tailwind,postgres,mysql,docker,linux,git,github,vscode"/>
 
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haddharanesh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haddharanesh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Haddharanesh&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haddharanesh&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Haddharanesh&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
-</p>
+</div>
 
 ---
 
 # 📊 GitHub Summary
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haddharanesh&theme=tokyonight"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haddharanesh&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haddharanesh&theme=tokyonight"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haddharanesh&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haddharanesh&theme=tokyonight&utcOffset=5.5"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Haddharanesh/Haddharanesh/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Haddharanesh/Haddharanesh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
-</p>
+</div>
 
 ---
 
-# 📫 Connect
+# 📡 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://discord.com/users/843067007192530945">
-
 <img src="https://discord.c99.nl/widget/theme-4/843067007192530945.png"/>
-
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 *"Build. Break. Learn. Repeat."*
+## 💬 "Build. Break. Learn. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00F5A0&height=120&section=footer"/>
+### Turning ideas into immersive FiveM experiences.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00F5A0&height=120&section=footer"/>
