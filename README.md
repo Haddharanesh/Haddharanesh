@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Haddharanesh;FiveM+Developer;Discord+Bot+Developer;Full+Stack+Developer;Always+Building+Something+Awesome" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Had_dharanesh;FiveM+Developer;Discord+Bot+Developer;Full+Stack+Developer;Always+Building+Something+Awesome" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5A0,100:00D9FF&text=Welcome%20To%20My%20Profile&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35"/>
 
