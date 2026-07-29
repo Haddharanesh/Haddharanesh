@@ -81,15 +81,6 @@ Learning    : Advanced Lua & Backend Systems
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Haddharanesh/Haddharanesh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
 
 # 📡 Connect With Me
 
