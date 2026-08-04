@@ -51,35 +51,7 @@ Learning    : Advanced Lua & Backend Systems
 
 ---
 
-# 📊 GitHub Summary
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haddharanesh&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haddharanesh&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haddharanesh&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haddharanesh&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haddharanesh&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
 
 
 # 📡 Connect With Me
